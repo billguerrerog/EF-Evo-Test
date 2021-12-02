@@ -27,3 +27,4 @@ bat 'mvn package'
 }
 }
 }
+}
